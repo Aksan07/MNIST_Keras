@@ -1,2 +1,2 @@
 # MNIST_Keras
-This Contains the Model I have learned and developed which experiments with the MNIST dataset
+This Contains the code for the Keras Model I have  developed to experiment with the MNIST dataset
